@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,strandedness
+MCIC_FD_2024_105,rnaseq/Kasson-McKeon_FungalPlug_C1-105_S1_L001_R1_001.fastq.gz,rnaseq/Kasson-McKeon_FungalPlug_C1-105_S1_L001_R2_001.fastq.gz,auto
+MCIC_FD_2024_204,rnaseq/Kasson-McKeon_FungalPlug_C2-204_S2_L001_R1_001.fastq.gz,rnaseq/Kasson-McKeon_FungalPlug_C2-204_S2_L001_R2_001.fastq.gz,auto
+MCIC_FC_2024_111,rnaseq/Kasson-McKeon_FungalPlug_C3-111_S3_L001_R1_001.fastq.gz,rnaseq/Kasson-McKeon_FungalPlug_C3-111_S3_L001_R2_001.fastq.gz,auto
+MCIC_MD_2024_113,rnaseq/Kasson-McKeon_FungalPlug_C4-113_S4_L001_R1_001.fastq.gz,rnaseq/Kasson-McKeon_FungalPlug_C4-113_S4_L001_R2_001.fastq.gz,auto
+MCIC_MD_2024_116,rnaseq/Kasson-McKeon_FungalPlug_C5-116_S5_L001_R1_001.fastq.gz,rnaseq/Kasson-McKeon_FungalPlug_C5-116_S5_L001_R2_001.fastq.gz,auto
+MCIC_MD_2024_109,rnaseq/Kasson-McKeon_FungalPlug_C6-109_S6_L001_R1_001.fastq.gz,rnaseq/Kasson-McKeon_FungalPlug_C6-109_S6_L001_R2_001.fastq.gz,auto
