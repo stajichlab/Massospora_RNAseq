@@ -1,0 +1,8 @@
+pdf("MCIC_FC_2024_111.splice_events.pdf")
+events=c(2.276181912100619,16.780640147099245,7.1685409498895805)
+pie(events,col=c(2,3,4),init.angle=30,angle=c(60,120,150),density=c(70,70,70),main="splicing events",labels=c("partial_novel 2%","complete_novel 17%","known 7%"))
+dev.off()
+pdf("MCIC_FC_2024_111.splice_junction.pdf")
+junction=c(11.49575086204556,80.56256957454319,7.941679563411257)
+pie(junction,col=c(2,3,4),init.angle=30,angle=c(60,120,150),density=c(70,70,70),main="splicing junctions",labels=c("partial_novel 11%","complete_novel 81%","known 8%"))
+dev.off()
