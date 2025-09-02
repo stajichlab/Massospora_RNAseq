@@ -1,0 +1,38 @@
+Sample	bedtools	getchromsizes	python	r-base	bioconductor-deseq2	bioconductor-dupradar	fastqc	fq	perl	rsem	star	picard	qualimap	rseqc	salmon	samtools	bioconductor-summarizedexperiment	gawk	stringtie	trimgalore	cutadapt	pigz	bioconductor-tximeta	ucsc	nf-core/rnaseq	Nextflow
+BEDTOOLS_GENOMECOV_FW	2.31.1																									
+CUSTOM_GETCHROMSIZES		1.21																								
+CUSTOM_TX2GENE			3.10.4																							
+DESEQ2_QC_STAR_SALMON				4.0.3	1.28.0																					
+DupRadar						1.32.0																				
+FASTQC							0.12.1																			
+FQ_LINT								0.12.0 (2024-07-08)																		
+FQ_SUBSAMPLE								0.12.0 (2024-07-08)																		
+GTF2BED									5.26.2																	
+GTF_FILTER			3.9.5																							
+MAKE_TRANSCRIPTS_FASTA										1.3.1	2.7.10a															
+PICARD_MARKDUPLICATES												3.1.1														
+QUALIMAP_RNASEQ													2.3													
+RSEQC_BAMSTAT														5.0.2												
+RSEQC_INFEREXPERIMENT														5.0.2												
+RSEQC_INNERDISTANCE														5.0.2												
+RSEQC_JUNCTIONANNOTATION														5.0.2												
+RSEQC_JUNCTIONSATURATION														5.0.2												
+RSEQC_READDISTRIBUTION														5.0.2												
+RSEQC_READDUPLICATION														5.0.2												
+SALMON_INDEX															1.10.3											
+SALMON_QUANT															1.10.3											
+SAMTOOLS_FLAGSTAT																1.21										
+SAMTOOLS_IDXSTATS																1.21										
+SAMTOOLS_INDEX																1.21										
+SAMTOOLS_SORT																1.21										
+SAMTOOLS_STATS																1.21										
+SE_GENE_UNIFIED																	1.32.0									
+SE_TRANSCRIPT_UNIFIED																	1.32.0									
+STAR_ALIGN											2.7.11b					1.21		5.1.0								
+STAR_GENOMEGENERATE											2.7.11b					1.21		5.1.0								
+STRINGTIE_STRINGTIE																			2.2.3							
+TRIMGALORE																				0.6.10	4.9	2.8				
+TXIMETA_TXIMPORT																							1.20.1			
+UCSC_BEDCLIP																								377		
+UCSC_BEDGRAPHTOBIGWIG																								469		
+Workflow																									v3.20.0-gb971ba1	25.04.6

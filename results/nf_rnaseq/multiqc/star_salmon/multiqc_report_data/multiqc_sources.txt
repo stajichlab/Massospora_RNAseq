@@ -1,0 +1,121 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/65/MCIC_FC_2024_111.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/68/MCIC_FD_2024_105.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/63/MCIC_FD_2024_204.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/66/MCIC_MD_2024_109.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/64/MCIC_MD_2024_113.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/67/MCIC_MD_2024_116.markdup.sorted.MarkDuplicates.metrics.txt
+QualiMap	rna_genome_results	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/149/MCIC_MD_2024_116/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/145/MCIC_FD_2024_204/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/146/MCIC_FC_2024_111/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/150/MCIC_FD_2024_105/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/147/MCIC_MD_2024_109/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/148/MCIC_MD_2024_113/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/149/MCIC_MD_2024_116/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/145/MCIC_FD_2024_204/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/146/MCIC_FC_2024_111/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/150/MCIC_FD_2024_105/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/147/MCIC_MD_2024_109/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/148/MCIC_MD_2024_113/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/107/MCIC_FC_2024_111.read_distribution.txt
+RSeQC	read_distribution	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/110/MCIC_FD_2024_105.read_distribution.txt
+RSeQC	read_distribution	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/105/MCIC_FD_2024_204.read_distribution.txt
+RSeQC	read_distribution	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/108/MCIC_MD_2024_109.read_distribution.txt
+RSeQC	read_distribution	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/106/MCIC_MD_2024_113.read_distribution.txt
+RSeQC	read_distribution	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/109/MCIC_MD_2024_116.read_distribution.txt
+RSeQC	inner_distance	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/101/MCIC_FC_2024_111.inner_distance_freq.txt
+RSeQC	inner_distance	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/104/MCIC_FD_2024_105.inner_distance_freq.txt
+RSeQC	inner_distance	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/100/MCIC_FD_2024_204.inner_distance_freq.txt
+RSeQC	inner_distance	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/102/MCIC_MD_2024_109.inner_distance_freq.txt
+RSeQC	inner_distance	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/99/MCIC_MD_2024_113.inner_distance_freq.txt
+RSeQC	inner_distance	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/103/MCIC_MD_2024_116.inner_distance_freq.txt
+RSeQC	read_duplication	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/138/MCIC_FC_2024_111.pos.DupRate.xls
+RSeQC	read_duplication	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/141/MCIC_FD_2024_105.pos.DupRate.xls
+RSeQC	read_duplication	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/136/MCIC_FD_2024_204.pos.DupRate.xls
+RSeQC	read_duplication	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/139/MCIC_MD_2024_109.pos.DupRate.xls
+RSeQC	read_duplication	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/137/MCIC_MD_2024_113.pos.DupRate.xls
+RSeQC	read_duplication	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/140/MCIC_MD_2024_116.pos.DupRate.xls
+RSeQC	junction_annotation	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/113/MCIC_FC_2024_111.junction_annotation.log
+RSeQC	junction_annotation	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/116/MCIC_FD_2024_105.junction_annotation.log
+RSeQC	junction_annotation	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/112/MCIC_FD_2024_204.junction_annotation.log
+RSeQC	junction_annotation	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/114/MCIC_MD_2024_109.junction_annotation.log
+RSeQC	junction_annotation	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/111/MCIC_MD_2024_113.junction_annotation.log
+RSeQC	junction_annotation	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/115/MCIC_MD_2024_116.junction_annotation.log
+RSeQC	junction_saturation	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/119/MCIC_FC_2024_111.junctionSaturation_plot.r
+RSeQC	junction_saturation	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/122/MCIC_FD_2024_105.junctionSaturation_plot.r
+RSeQC	junction_saturation	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/117/MCIC_FD_2024_204.junctionSaturation_plot.r
+RSeQC	junction_saturation	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/120/MCIC_MD_2024_109.junctionSaturation_plot.r
+RSeQC	junction_saturation	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/118/MCIC_MD_2024_113.junctionSaturation_plot.r
+RSeQC	junction_saturation	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/121/MCIC_MD_2024_116.junctionSaturation_plot.r
+RSeQC	infer_experiment	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/131/MCIC_FC_2024_111.infer_experiment.txt
+RSeQC	infer_experiment	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/134/MCIC_FD_2024_105.infer_experiment.txt
+RSeQC	infer_experiment	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/129/MCIC_FD_2024_204.infer_experiment.txt
+RSeQC	infer_experiment	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/132/MCIC_MD_2024_109.infer_experiment.txt
+RSeQC	infer_experiment	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/130/MCIC_MD_2024_113.infer_experiment.txt
+RSeQC	infer_experiment	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/133/MCIC_MD_2024_116.infer_experiment.txt
+RSeQC	bam_stat	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/125/MCIC_FC_2024_111.bam_stat.txt
+RSeQC	bam_stat	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/128/MCIC_FD_2024_105.bam_stat.txt
+RSeQC	bam_stat	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/124/MCIC_FD_2024_204.bam_stat.txt
+RSeQC	bam_stat	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/126/MCIC_MD_2024_109.bam_stat.txt
+RSeQC	bam_stat	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/123/MCIC_MD_2024_113.bam_stat.txt
+RSeQC	bam_stat	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/127/MCIC_MD_2024_116.bam_stat.txt
+Samtools	stats	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/84/MCIC_FC_2024_111.markdup.sorted.bam.stats
+Samtools	stats	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/86/MCIC_FD_2024_105.markdup.sorted.bam.stats
+Samtools	stats	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/57/MCIC_FD_2024_204.sorted.bam.stats
+Samtools	stats	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/81/MCIC_MD_2024_109.markdup.sorted.bam.stats
+Samtools	stats	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/61/MCIC_MD_2024_113.sorted.bam.stats
+Samtools	stats	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/60/MCIC_MD_2024_116.sorted.bam.stats
+Samtools	flagstat	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/54/MCIC_FC_2024_111.sorted.bam.flagstat
+Samtools	flagstat	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/70/MCIC_FD_2024_105.markdup.sorted.bam.flagstat
+Samtools	flagstat	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/71/MCIC_FD_2024_204.markdup.sorted.bam.flagstat
+Samtools	flagstat	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/74/MCIC_MD_2024_109.markdup.sorted.bam.flagstat
+Samtools	flagstat	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/72/MCIC_MD_2024_113.markdup.sorted.bam.flagstat
+Samtools	flagstat	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/51/MCIC_MD_2024_116.sorted.bam.flagstat
+Samtools	idxstats	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/79/MCIC_FC_2024_111.markdup.sorted.bam.idxstats
+Samtools	idxstats	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/46/MCIC_FD_2024_105.sorted.bam.idxstats
+Samtools	idxstats	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/76/MCIC_FD_2024_204.markdup.sorted.bam.idxstats
+Samtools	idxstats	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/45/MCIC_MD_2024_109.sorted.bam.idxstats
+Samtools	idxstats	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/48/MCIC_MD_2024_113.sorted.bam.idxstats
+Samtools	idxstats	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/47/MCIC_MD_2024_116.sorted.bam.idxstats
+STAR	SummaryLog	MCIC_FC_2024_111	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/42/MCIC_FC_2024_111.Log.final.out
+STAR	SummaryLog	MCIC_FD_2024_105	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/44/MCIC_FD_2024_105.Log.final.out
+STAR	SummaryLog	MCIC_FD_2024_204	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/43/MCIC_FD_2024_204.Log.final.out
+STAR	SummaryLog	MCIC_MD_2024_109	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/41/MCIC_MD_2024_109.Log.final.out
+STAR	SummaryLog	MCIC_MD_2024_113	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/40/MCIC_MD_2024_113.Log.final.out
+STAR	SummaryLog	MCIC_MD_2024_116	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/39/MCIC_MD_2024_116.Log.final.out
+FastQC (raw)	all_sections	MCIC_FC_2024_111_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/25/MCIC_FC_2024_111_raw_1_fastqc.zip
+FastQC (raw)	all_sections	MCIC_FC_2024_111_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/26/MCIC_FC_2024_111_raw_2_fastqc.zip
+FastQC (raw)	all_sections	MCIC_FD_2024_105_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/33/MCIC_FD_2024_105_raw_1_fastqc.zip
+FastQC (raw)	all_sections	MCIC_FD_2024_105_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/34/MCIC_FD_2024_105_raw_2_fastqc.zip
+FastQC (raw)	all_sections	MCIC_FD_2024_204_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/23/MCIC_FD_2024_204_raw_1_fastqc.zip
+FastQC (raw)	all_sections	MCIC_FD_2024_204_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/24/MCIC_FD_2024_204_raw_2_fastqc.zip
+FastQC (raw)	all_sections	MCIC_MD_2024_109_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/31/MCIC_MD_2024_109_raw_1_fastqc.zip
+FastQC (raw)	all_sections	MCIC_MD_2024_109_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/32/MCIC_MD_2024_109_raw_2_fastqc.zip
+FastQC (raw)	all_sections	MCIC_MD_2024_113_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/27/MCIC_MD_2024_113_raw_1_fastqc.zip
+FastQC (raw)	all_sections	MCIC_MD_2024_113_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/28/MCIC_MD_2024_113_raw_2_fastqc.zip
+FastQC (raw)	all_sections	MCIC_MD_2024_116_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/29/MCIC_MD_2024_116_raw_1_fastqc.zip
+FastQC (raw)	all_sections	MCIC_MD_2024_116_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/30/MCIC_MD_2024_116_raw_2_fastqc.zip
+Cutadapt	all_sections	MCIC_FC_2024_111_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/3/MCIC_FC_2024_111_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	MCIC_FC_2024_111_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/4/MCIC_FC_2024_111_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	MCIC_FD_2024_105_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/19/MCIC_FD_2024_105_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	MCIC_FD_2024_105_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/20/MCIC_FD_2024_105_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	MCIC_FD_2024_204_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/7/MCIC_FD_2024_204_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	MCIC_FD_2024_204_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/8/MCIC_FD_2024_204_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	MCIC_MD_2024_109_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/15/MCIC_MD_2024_109_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	MCIC_MD_2024_109_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/16/MCIC_MD_2024_109_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	MCIC_MD_2024_113_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/11/MCIC_MD_2024_113_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	MCIC_MD_2024_113_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/12/MCIC_MD_2024_113_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	MCIC_MD_2024_116_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/35/MCIC_MD_2024_116_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	MCIC_MD_2024_116_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/36/MCIC_MD_2024_116_trimmed_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	MCIC_FC_2024_111_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/5/MCIC_FC_2024_111_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	MCIC_FC_2024_111_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/6/MCIC_FC_2024_111_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	MCIC_FD_2024_105_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/21/MCIC_FD_2024_105_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	MCIC_FD_2024_105_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/22/MCIC_FD_2024_105_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	MCIC_FD_2024_204_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/9/MCIC_FD_2024_204_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	MCIC_FD_2024_204_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/10/MCIC_FD_2024_204_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	MCIC_MD_2024_109_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/17/MCIC_MD_2024_109_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	MCIC_MD_2024_109_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/18/MCIC_MD_2024_109_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	MCIC_MD_2024_113_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/13/MCIC_MD_2024_113_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	MCIC_MD_2024_113_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/14/MCIC_MD_2024_113_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	MCIC_MD_2024_116_1	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/37/MCIC_MD_2024_116_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	MCIC_MD_2024_116_2	/bigdata/stajichlab/shared/projects/ZyGoLife/Massospora/Massospora_RNASeq/work/11/665c10e0a691dc917853556a96d06b/38/MCIC_MD_2024_116_trimmed_2_val_2_fastqc.zip
