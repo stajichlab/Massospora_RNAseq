@@ -1,0 +1,29 @@
+
+Read Statistics Summary (Counts)
+================================================================================
+                    Fungus     Host  unmapped
+MCIC_FC_2024_111  37151562  1925472   4924616
+MCIC_FD_2024_105  44359762  1856476   5458380
+MCIC_FD_2024_204  18330360  8659162  14474884
+MCIC_MD_2024_109  41748212   822292   3475530
+MCIC_MD_2024_113  33152434  3056724  16899070
+MCIC_MD_2024_116  41841948  3512658   7521752
+
+
+Table saved to: results/stats/summary_table.csv
+Table saved to: results/stats/summary_table.tsv
+
+
+Read Statistics Summary (Percentages)
+================================================================================
+                  Fungus   Host  unmapped
+MCIC_FC_2024_111   84.43   4.38     11.19
+MCIC_FD_2024_105   85.84   3.59     10.56
+MCIC_FD_2024_204   44.21  20.88     34.91
+MCIC_MD_2024_109   90.67   1.79      7.55
+MCIC_MD_2024_113   62.42   5.76     31.82
+MCIC_MD_2024_116   79.13   6.64     14.23
+
+
+Percentage table saved to: results/stats/summary_percent_table.csv
+Percentage table saved to: results/stats/summary_percent_table.tsv
